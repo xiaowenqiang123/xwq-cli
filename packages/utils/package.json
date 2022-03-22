@@ -1,6 +1,6 @@
 {
   "name": "@xwq-cli/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "xwq <xiaowenqiang@chengfayun.com>",
   "homepage": "",
@@ -15,5 +15,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "fd5bed2776f2f18cfa555447aaac309c7968aba0",
+  "publishConfig": {
+    "access": "public"
   }
 }
